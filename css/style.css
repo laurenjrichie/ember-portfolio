@@ -1,0 +1,23 @@
+/* Put your CSS here */
+.ember-application {
+    margin: 20px;
+}
+
+#moss {
+  background-image: url("../images/moss.jpg");
+  background-size: cover;
+}
+
+.about-header {
+  font-size: 5em;
+  color: white;
+  text-align: center;
+  padding-top: 2em;
+  padding-bottom: 0.5em;
+}
+
+.about-text {
+  color: white;
+  text-align: center;
+  font-size: 1.5em;
+}
