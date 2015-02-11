@@ -4,20 +4,29 @@
 }
 
 #moss {
-  background-image: url("../images/moss.jpg");
+  background-image: url("../images/sun.jpg");
   background-size: cover;
 }
 
 .about-header {
   font-size: 5em;
-  color: white;
   text-align: center;
-  padding-top: 2em;
-  padding-bottom: 0.5em;
 }
 
 .about-text {
-  color: white;
   text-align: center;
   font-size: 1.5em;
+}
+
+.icon {
+  height: 30px;
+  width: 30px;
+  margin: 20px 10px 40px 10px;
+}
+
+#face {
+  height: 110px;
+  width: 110px;
+  border-radius: 18px;
+  margin-top: 100px;
 }
